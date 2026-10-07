@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle de Gastos</string>
+    <string name="servico_notificacoes">Controle de Gastos – leitura de notificações</string>
+</resources>
